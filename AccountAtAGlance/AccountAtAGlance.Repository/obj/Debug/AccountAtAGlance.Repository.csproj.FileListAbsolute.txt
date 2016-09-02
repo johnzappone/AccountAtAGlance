@@ -1,0 +1,5 @@
+C:\Programming\github\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.dll
+C:\Programming\github\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\bin\Debug\AccountAtAGlance.Repository.pdb
+C:\Programming\github\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.csprojResolveAssemblyReference.cache
+C:\Programming\github\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.dll
+C:\Programming\github\AccountAtAGlance\AccountAtAGlance\AccountAtAGlance.Repository\obj\Debug\AccountAtAGlance.Repository.pdb
